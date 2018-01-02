@@ -1,7 +1,7 @@
-# authentication-layer
-openresty authentication layer
+# Authentication layer
+Protect your services with an authentication layer
 
-# Protect your services with an authentication layer
+# Authentication method
 
 * Basic Authentication
 * Key Authentication
